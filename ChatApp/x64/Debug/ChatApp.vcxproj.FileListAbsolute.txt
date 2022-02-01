@@ -1,0 +1,4 @@
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\ChatApp\ChatApp\x64\Debug\ChatApp.vcxproj.AssemblyReference.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\ChatApp\ChatApp\x64\Debug\ChatApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\ChatApp\ChatApp\x64\Debug\ChatApp.Form1.resources
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\ChatApp\ChatApp\x64\Debug\ChatApp.vcxproj.GenerateResource.cache
